@@ -1,0 +1,18 @@
+language,file,reference,prediction,wer
+EN,checkin.wav,Where is the check-in desk?,where is the checking desk,0.2
+EN,parents.wav,I have lost my parents.,i had lost my parents,0.2
+EN,suitcase.wav,"Please, I have lost my suitcase.",please i have lost my suitcase,0.0
+EN,what_time.wav,What time is my plane?,what time is my plan,0.2
+EN,where.wav,Where are the restaurants and shops?,where are the restaurants and shops,0.0
+EN,your_sentence1.wav,I don't want anything to drink i'm rather hungry.,i don't want anything to drink and rather hungry,0.1111111111111111
+EN,your_sentence2.wav,I excercise for an hour every morning.,i exercise but an over every morning,0.42857142857142855
+ES,checkin_es.wav,¿Dónde están los mostradores?,adande estan los mostradores,0.5
+ES,parents_es.wav,He perdido a mis padres.,he perdido a mis padres,0.0
+ES,suitcase_es.wav,"Por favor, he perdido mi maleta.",por favor he perdido mi maleta,0.0
+ES,what_time_es.wav,¿A qué hora es mi avión?,ahora es miedo,0.8333333333333334
+ES,where_es.wav,¿Dónde están los restaurantes y las tiendas?,adande estan los restaurantes en las tierras,0.5714285714285714
+IT,checkin_it.wav,Dove è il bancone?,dove e il pancone,0.5
+IT,parents_it.wav,Ho perso i miei genitori.,perso i miei genitori,0.2
+IT,suitcase_it.wav,"Per favore, ho perso la mia valigia.",per fare ho perso la mia valigia,0.14285714285714285
+IT,what_time_it.wav,A che ora è il mio aereo?,nero,1.0
+IT,where_it.wav,Dove sono i ristoranti e i negozi?,dove sono ristoranti negozi,0.42857142857142855

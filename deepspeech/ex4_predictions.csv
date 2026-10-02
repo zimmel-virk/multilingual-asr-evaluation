@@ -1,0 +1,18 @@
+language,file,prediction
+EN,checkin.wav,where is the checking desk
+EN,parents.wav,i had lost my parents
+EN,suitcase.wav,please i have lost my suitcase
+EN,what_time.wav,what time is my plan
+EN,where.wav,where are the restaurants and shops
+EN,your_sentence1.wav,i don't want anything to drink and rather hungry
+EN,your_sentence2.wav,i exercise but an over every morning
+ES,checkin_es.wav,adande estan los mostradores
+ES,parents_es.wav,he perdido a mis padres
+ES,suitcase_es.wav,por favor he perdido mi maleta
+ES,what_time_es.wav,ahora es miedo
+ES,where_es.wav,adande estan los restaurantes en las tierras
+IT,checkin_it.wav,dove e il pancone
+IT,parents_it.wav,perso i miei genitori
+IT,suitcase_it.wav,per fare ho perso la mia valigia
+IT,what_time_it.wav,nero
+IT,where_it.wav,dove sono ristoranti negozi

@@ -1,0 +1,9 @@
+ORIGINAL PROJECT FILE VERIFICATION
+
+All copied original project files were verified byte-for-byte against the source archive using SHA-256.
+No original notebook, Python source, WAV recording, or CSV result file was modified.
+
+Excluded only: .DS_Store files and .ipynb_checkpoints autosave folders.
+
+Original files copied and verified: 25
+Mismatches: 0
